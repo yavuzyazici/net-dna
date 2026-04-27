@@ -1,5 +1,4 @@
 .DS_Store
-/.vs/Dna.SoapEndpoint.Tests/v17
-/.vs/Dna.SoapEndpoint.Tests/CopilotIndices
 /Dna.SoapEndpoint.Tests/bin
 /Dna.SoapEndpoint.Tests/obj
+/.vs
